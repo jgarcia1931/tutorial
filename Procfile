@@ -1,1 +1,1 @@
-web: gunicorn codesnippets.wsgi
+web: gunicorn tutorial.wsgi
