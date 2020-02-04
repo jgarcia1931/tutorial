@@ -1,1 +1,1 @@
-web: gunicorn tutorial.wsgi --log-file -
+web: gunicorn codesnippets.wsgi --log-file -
