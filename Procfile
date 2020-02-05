@@ -1,1 +1,1 @@
-gunicorn tutorial.tutorial.wsgi:app --preload --log-file -
+web: gunicorn tutorial.tutorial.wsgi:app --preload --log-file -
